@@ -30,7 +30,7 @@ All solutions in this repository are independently developed by me without using
 - Analyze time and space complexity (Big O notation).
 - Prepare for technical interviews.
 
-## Language
+## Languages
 
 - TypeScript
 - PHP
