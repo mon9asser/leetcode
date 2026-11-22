@@ -35,8 +35,7 @@ All solutions in this repository are independently developed by me without using
 - TypeScript
 - PHP
 - Python
-- Dart
-- Go Lang
+- Dart 
 - C++
 - C#
 
