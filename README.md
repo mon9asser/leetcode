@@ -33,6 +33,7 @@ All solutions in this repository are independently developed by me without using
 ## Languages
 
 - TypeScript
+- JavaScript
 - PHP
 - Python
 - Dart 
